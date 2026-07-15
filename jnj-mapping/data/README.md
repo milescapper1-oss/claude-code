@@ -50,13 +50,36 @@ purpose:
   confirmed named speaker yet, e.g. the ISPE Delaware Valley Chapter
   symposium).
 
+## "Where to meet them" — read `meet_confidence` before trusting `meet_at`
+
+Only **7 of 22** contacts have an individually-confirmed conference tie
+(`meet_confidence` is `confirmed_speaker` or `confirmed_committee_member`).
+For everyone else, `meet_at` is empty on purpose — knowing J&J the company
+has a session at a conference is not the same as knowing a specific person
+from this list will be there, and earlier drafts of this data conflated the
+two. `conferences.json`'s `jnj_presence_level` field makes the same
+distinction at the event level: `individual(s) confirmed` means a named
+person is a listed speaker/committee member; `company session confirmed,
+speaker TBD` means J&J has a slot on the agenda but the organizers
+themselves haven't named a presenter yet (e.g. BPI Europe 2026 literally
+lists the speaker as "A Representative from Johnson & Johnson Innovative
+Medicine"); `unconfirmed` means no J&J presence — company or individual —
+was found at all.
+
 ## Schema
 
 `contacts.json` / `contacts.csv`: `name, title, org, site, region,
-function, source_url, source_note, meet_at, date_found, canonical_site,
-canonical_title` — the last two are computed by running the raw `site`/
-`title` fields through `dedup.py`'s `dedup_records()`, same as scraper
-output would be.
+function, source_url, source_note, meet_at, meet_confidence, date_found,
+canonical_site, canonical_title` — `canonical_site`/`canonical_title` are
+computed by running the raw `site`/`title` fields through `dedup.py`'s
+`dedup_records()`, same as scraper output would be. Note: several contacts
+have `site: "Not specified in source"` rather than a guessed location —
+`dedup.py`'s fuzzy matcher was initially (wrongly) merging "US (site
+unspecified)" and "Europe (site unspecified)" into one canonical site
+because the placeholder text itself was too similar; using identical,
+non-templated placeholder text side-steps that instead of tuning the
+matcher's threshold. `region` (US/Europe/Global) is the reliable field for
+geography on these records, not `site`.
 
 `conferences.json` / `conferences.csv`: `name, dates, location,
-jnj_confirmed, notes`.
+named_jnj_attendees, jnj_presence_level, notes`.
