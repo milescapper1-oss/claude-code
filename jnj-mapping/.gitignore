@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Scraped/generated output — regenerate by running the scrapers, don't commit
+data/*.json
+data/*.csv
+data/*.html
+!data/.gitkeep
