@@ -82,6 +82,11 @@ extraction/
 data/                 scraped output (JSON/CSV), gitignored — regenerate by
                       running the scrapers
 
+                      Two exceptions, checked into git: contacts.json/csv
+                      and conferences.json/csv are manually-researched (not
+                      scraper output) — see data/README.md for methodology,
+                      sources, and known gaps before relying on them.
+
 dedup.py              entity resolution for site names and role titles
                       (alias table + fuzzy matching), e.g. reconciling
                       "Wilson, NC" / "Wilson NC facility" / "North Carolina

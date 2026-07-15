@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ISPE Annual Meeting & Expo 2026",
+    "dates": "Oct 18-21, 2026",
+    "location": "Gaylord National Resort & Convention Center, National Harbor, MD, USA",
+    "jnj_confirmed": "Confirmed regular presence",
+    "notes": "Peter Millili is an ISPE conference committee member. FOYA Banquet is Oct 18, co-located."
+  },
+  {
+    "name": "ISPE FOYA Banquet 2026",
+    "dates": "Oct 18, 2026",
+    "location": "Gaylord National Resort & Convention Center, National Harbor, MD, USA",
+    "jnj_confirmed": "Likely \u2014 J&J won 2 of 2025's FOYA categories",
+    "notes": "Co-located with ISPE Annual Meeting & Expo."
+  },
+  {
+    "name": "ISPE Europe Annual Conference 2026",
+    "dates": "Apr 20-22, 2026",
+    "location": "Bella Center, Copenhagen, Denmark",
+    "jnj_confirmed": "Confirmed",
+    "notes": "J&J Innovative Medicine Latina (Italy) and Ringaskiddy (Cork) teams presenting their 2025 FOYA-winning projects as case studies."
+  },
+  {
+    "name": "PDA Parenteral Packaging Conference 2026",
+    "dates": "Apr 14-15, 2026",
+    "location": "Munich, Germany",
+    "jnj_confirmed": "Confirmed",
+    "notes": "Federico Sabini (J&J MSAT) is a listed speaker."
+  },
+  {
+    "name": "BioProcess International (BPI) 2026",
+    "dates": "Sep 22-25, 2026",
+    "location": "Hynes Convention Center, Boston, MA, USA",
+    "jnj_confirmed": "Confirmed",
+    "notes": "J&J session: 'Next-gen innovation playbook'."
+  },
+  {
+    "name": "BioProcess International Europe 2026",
+    "dates": "Apr 27-30, 2026",
+    "location": "Vienna, Austria",
+    "jnj_confirmed": "Not confirmed for J&J specifically",
+    "notes": "Same conference series as BPI Boston; check closer to date."
+  },
+  {
+    "name": "INTERPHEX 2026",
+    "dates": "Apr 21-23, 2026",
+    "location": "Javits Center, New York, NY, USA",
+    "jnj_confirmed": "Not confirmed",
+    "notes": "General pharma-manufacturing-equipment trade show; check exhibitor/attendee list closer to date."
+  },
+  {
+    "name": "ASME BPE Committee Meetings",
+    "dates": "Ongoing, several/year",
+    "location": "Varies (ASME-hosted)",
+    "jnj_confirmed": "Confirmed active member",
+    "notes": "Ciaran Kelleher (Janssen Supply Chain) is an active Subcommittee on Systems Design member. Working sessions, not a trade show \u2014 highest-signal room for actual valve/piping spec influence if accessible as an industry participant."
+  },
+  {
+    "name": "ISPE Delaware Valley Chapter Annual Symposium & Exhibition",
+    "dates": "Aug 6, 2026",
+    "location": "Lincoln Financial Field, Philadelphia, PA, USA",
+    "jnj_confirmed": "Not confirmed",
+    "notes": "Regional chapter covering the PA/NJ pharma corridor (Spring House, Malvern, Titusville, Horsham, Raritan) \u2014 high site density in this region."
+  }
+]

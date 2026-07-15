@@ -41,6 +41,21 @@ SITE_ALIASES: dict[str, str] = {
     "leiden netherlands": "Leiden, Netherlands",
     "beerse belgium": "Beerse, Belgium",
     "latina italy": "Latina, Italy",
+    "ringaskiddy": "Cork, Ireland",
+    "ringaskiddy cork ireland": "Cork, Ireland",
+    "geel belgium": "Geel, Belgium",
+    "schaffhausen": "Schaffhausen, Switzerland",
+    "schaffhausen switzerland": "Schaffhausen, Switzerland",
+    "zug switzerland": "Zug, Switzerland",
+    "lower gwynedd township": "Spring House (Lower Gwynedd Twp), PA",
+    "lower gwynedd montgomery county pennsylvania": "Spring House (Lower Gwynedd Twp), PA",
+    "spring house pa": "Spring House (Lower Gwynedd Twp), PA",
+    "montgomery county pa": "Spring House (Lower Gwynedd Twp), PA",
+    "jacksonville fl": "Jacksonville, FL",
+    "jacksonville florida": "Jacksonville, FL",
+    "costa rica": "Costa Rica (MedTech)",
+    "issy les moulineaux": "Issy-les-Moulineaux, France",
+    "issy les moulineaux france": "Issy-les-Moulineaux, France",
 }
 
 # Titles that mean "no seniority/level info", stripped for matching so

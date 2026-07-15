@@ -9,3 +9,9 @@ data/*.json
 data/*.csv
 data/*.html
 !data/.gitkeep
+
+# Manually-researched reference data (not scraper output — see data/README.md)
+!data/contacts.json
+!data/contacts.csv
+!data/conferences.json
+!data/conferences.csv
