@@ -59,9 +59,9 @@
     "name": "BioProcess International Europe 2026",
     "dates": "Apr 28-30, 2026",
     "location": "Vienna, Austria",
-    "named_jnj_attendees": "none confirmed",
-    "jnj_presence_level": "company session confirmed, speaker TBD",
-    "notes": "Informa's own speaker page lists the J&J Innovative Medicine slot as 'A Representative from Johnson & Johnson Innovative Medicine' \u2014 i.e. J&J has a confirmed session, but the organizers themselves haven't named the individual yet as of this research."
+    "named_jnj_attendees": "Maxime Bergman; Marius Muller; Craig Walsh",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Resolved on retry: 3 named speakers confirmed via the official informaconnect.com speaker page (an earlier pass only found a generic 'A Representative from Johnson & Johnson Innovative Medicine' placeholder \u2014 that was a different, unnamed slot; these three are separately, individually listed)."
   },
   {
     "name": "INTERPHEX 2026",

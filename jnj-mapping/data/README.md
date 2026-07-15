@@ -52,7 +52,7 @@ purpose:
 
 ## "Where to meet them" — read `meet_confidence` before trusting `meet_at`
 
-Only **7 of 22** contacts have an individually-confirmed conference tie
+**10 of 25** contacts have an individually-confirmed conference tie
 (`meet_confidence` is `confirmed_speaker` or `confirmed_committee_member`).
 For everyone else, `meet_at` is empty on purpose — knowing J&J the company
 has a session at a conference is not the same as knowing a specific person
@@ -61,10 +61,16 @@ two. `conferences.json`'s `jnj_presence_level` field makes the same
 distinction at the event level: `individual(s) confirmed` means a named
 person is a listed speaker/committee member; `company session confirmed,
 speaker TBD` means J&J has a slot on the agenda but the organizers
-themselves haven't named a presenter yet (e.g. BPI Europe 2026 literally
-lists the speaker as "A Representative from Johnson & Johnson Innovative
-Medicine"); `unconfirmed` means no J&J presence — company or individual —
-was found at all.
+themselves haven't named a presenter yet (still true of ISPE Europe
+Annual Conference 2026's two FOYA case-study sessions — J&J's Cork and
+Latina project teams are confirmed to present, but no individual presenter
+name was found after two research passes); `unconfirmed` means no J&J
+presence — company or individual — was found at all. BPI Europe 2026 was
+originally in the `speaker TBD` bucket too (Informa's own page showed a
+placeholder, "A Representative from Johnson & Johnson Innovative
+Medicine") until a retry surfaced three separately-listed named speakers
+— a good example of why `speaker TBD` means "not yet found," not
+"doesn't exist."
 
 ## Schema
 
