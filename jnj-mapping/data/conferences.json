@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ISPE Annual Meeting & Expo 2026",
+    "dates": "Oct 18-21, 2026",
+    "location": "Gaylord National Resort & Convention Center, National Harbor, MD, USA",
+    "named_jnj_attendees": "Peter Millili (high confidence, not a specific-session confirmation)",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Millili is an ISPE conference committee member, which strongly implies attendance, but that is not the same as a confirmed 2026 speaking slot. FOYA Banquet is Oct 18, co-located."
+  },
+  {
+    "name": "ISPE FOYA Banquet 2026",
+    "dates": "Oct 18, 2026",
+    "location": "Gaylord National Resort & Convention Center, National Harbor, MD, USA",
+    "named_jnj_attendees": "none confirmed",
+    "jnj_presence_level": "unconfirmed",
+    "notes": "J&J won 2 of 2025's FOYA categories so recognition/attendance by the winning project teams is likely, but no specific named attendee confirmed. Co-located with ISPE Annual Meeting & Expo."
+  },
+  {
+    "name": "ISPE Europe Annual Conference 2026",
+    "dates": "Apr 20-22, 2026",
+    "location": "Bella Center, Copenhagen, Denmark",
+    "named_jnj_attendees": "none confirmed",
+    "jnj_presence_level": "company session confirmed, speaker TBD",
+    "notes": "J&J Innovative Medicine's Latina (Italy) and Ringaskiddy (Cork) project teams are presenting their 2025 FOYA-winning projects as case studies \u2014 confirmed on the agenda \u2014 but I could not find the individual presenter's name for either session. Do not assume Dana Daneshvari or anyone else in contacts.json is the presenter."
+  },
+  {
+    "name": "PDA Parenteral Packaging Conference 2026",
+    "dates": "Apr 14-15, 2026",
+    "location": "Munich, Germany",
+    "named_jnj_attendees": "Federico Sabini",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Sabini (J&J MSAT) is a listed speaker on the official PDA conference page."
+  },
+  {
+    "name": "BioProcess International (BPI) 2026",
+    "dates": "Sep 22-25, 2026",
+    "location": "Hynes Convention Center, Boston, MA, USA",
+    "named_jnj_attendees": "Thomas Kelly",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Kelly (Janssen R&D) is a listed speaker on the official BPI speaker page. Separately, J&J has a session titled 'Next-gen innovation playbook' with no named presenter found."
+  },
+  {
+    "name": "BioProcess International US West (BPI West) 2026",
+    "dates": "Mar 9-11, 2026",
+    "location": "San Diego Convention Center, San Diego, CA, USA",
+    "named_jnj_attendees": "Carlos Arbelaez, PhD",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Arbelaez (J&J Innovative Medicine) is a listed speaker; his session 'End-to-End Process Development for Autologous CAR-T Cells' is scheduled Mar 10, 2:30pm."
+  },
+  {
+    "name": "BIO International Convention 2026",
+    "dates": "Jun 22-25, 2026",
+    "location": "San Diego Convention Center, San Diego, CA, USA",
+    "named_jnj_attendees": "John Reed, MD PhD; Nauman Shah",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Both listed as speakers on BIO.org's official Johnson & Johnson program page. Note: both are R&D/business-development leadership, not engineering/procurement \u2014 lower direct relevance to valve buying decisions, but a confirmed in-person venue."
+  },
+  {
+    "name": "BioProcess International Europe 2026",
+    "dates": "Apr 28-30, 2026",
+    "location": "Vienna, Austria",
+    "named_jnj_attendees": "Maxime Bergman; Marius Muller; Craig Walsh",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Resolved on retry: 3 named speakers confirmed via the official informaconnect.com speaker page (an earlier pass only found a generic 'A Representative from Johnson & Johnson Innovative Medicine' placeholder \u2014 that was a different, unnamed slot; these three are separately, individually listed)."
+  },
+  {
+    "name": "INTERPHEX 2026",
+    "dates": "Apr 21-23, 2026",
+    "location": "Javits Center, New York, NY, USA",
+    "named_jnj_attendees": "none confirmed",
+    "jnj_presence_level": "unconfirmed",
+    "notes": "General pharma-manufacturing-equipment trade show; no J&J presence (company or individual) found in search. Worth checking the exhibitor/attendee list closer to the date."
+  },
+  {
+    "name": "ASME BPE Committee Meetings",
+    "dates": "Ongoing, several/year",
+    "location": "Varies (ASME-hosted)",
+    "named_jnj_attendees": "Ciaran Kelleher",
+    "jnj_presence_level": "individual(s) confirmed",
+    "notes": "Kelleher (Janssen Supply Chain) is an active Subcommittee on Systems Design member. Working sessions, not a trade show \u2014 highest-signal room for actual valve/piping spec influence if accessible as an industry participant."
+  },
+  {
+    "name": "ISPE Delaware Valley Chapter Annual Symposium & Exhibition",
+    "dates": "Aug 6, 2026",
+    "location": "Lincoln Financial Field, Philadelphia, PA, USA",
+    "named_jnj_attendees": "none confirmed",
+    "jnj_presence_level": "unconfirmed",
+    "notes": "Regional chapter covering the PA/NJ pharma corridor (Spring House, Malvern, Titusville, Horsham, Raritan) \u2014 high site density in this region, but no confirmed J&J speaker found for 2026 yet."
+  }
+]

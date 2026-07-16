@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Scraped/generated output — regenerate by running the scrapers, don't commit
+data/*.json
+data/*.csv
+data/*.html
+!data/.gitkeep
+
+# Manually-researched reference data (not scraper output — see data/README.md)
+!data/contacts.json
+!data/contacts.csv
+!data/conferences.json
+!data/conferences.csv
