@@ -1,5 +1,7 @@
 Name,Title,Company,Tier,Site/Region,Rationale
+Bertrand Mouton,Responsable de maintenance générale et infrastructures site,AbbVie,Tier 1,Greater Bordeaux Metropolitan Area (Europe),Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Caroline Rocks,Senior Program Manager (Process Engineer),AbbVie,Tier 1,Ireland (Europe),Engineering / C&Q — specifies and standardises process valves & equipment.
+Christopher Wright,Maintenance Manager,AbbVie,Tier 1,United States (US),Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Columba McGarvey,"Site Director, AbbVie Ballytivnan (Sligo)",AbbVie,Tier 1,"Sligo, Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
 Darren Egan,"Site Director, AbbVie Manorhamilton Road (Sligo)",AbbVie,Tier 1,"Sligo, Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
 Emilie Leonard,Head of MSAT,AbbVie,Tier 1,"Talence, Nouvelle-Aquitaine, France (Europe)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
@@ -14,9 +16,12 @@ Falguni Patel,"Associate Director, MSAT Process Engineering",Bristol Myers Squib
 Odile Smith,Vice President & Devens Campus Lead,Bristol Myers Squibb,Tier 1,"Devens, MA (US)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
 Padraig Keane,"Vice President & General Manager, Cruiserath Biologics Campus",Bristol Myers Squibb,Tier 1,"Cruiserath (Dublin), Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
 Roe Hau,"Director, MSAT Process Engineering",Bristol Myers Squibb,Tier 1,New York City Metropolitan Area (US),MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
+Troy M,"Manager, Maintenance",Bristol Myers Squibb,Tier 1,"Westminster, Massachusetts, United States",Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
+Bryan Trapp,LP1 Maintenance Manager,Eli Lilly,Tier 1,"Lafayette, Indiana, United States (US)",Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Carolina Serrano Martinez,Operations Improvement Engineer,Eli Lilly,Tier 1,US (Great Lakes region),Engineering / C&Q — specifies and standardises process valves & equipment.
 Dave Riordan,"VP & Site Head, Lilly Limerick",Eli Lilly,Tier 1,"Limerick, Ireland (Europe)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
 Eamon Judge,EMEA Major Project Planning Leader,Eli Lilly,Tier 1,Ireland (EMEA) (Europe),Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Edwin Bosshart,Maintenance Manager,Eli Lilly,Tier 1,"Whitestown, Indiana, United States (US)",Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Keith Weseli,Advisor - Program Manager,Eli Lilly,Tier 1,US,Engineering / C&Q — specifies and standardises process valves & equipment.
 Kofi Appiah-Nkansah,"Associate Director, Technical Services / Mfg Science (MSAT)",Eli Lilly,Tier 1,United States (US),Utilities/technical services — owns clean-utility & CIP/SIP systems where diaphragm valves spec in.
 Matthew von Zirkelbach,"Vice President & Site Head, Lilly Medicine Foundry (Lebanon)",Eli Lilly,Tier 1,"Lebanon, IN (US)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
@@ -30,7 +35,11 @@ Victor Cruz,"SVP, Corporate Engineering & Global Health, Safety & Environmental"
 Donald Powers,Sr Director Advanced Therapies MSAT,Johnson & Johnson,Tier 1,Greater Philadelphia (US),MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Goeran Crucius,Director MSAT Cross Platform Engineering,Johnson & Johnson,Tier 1,"Schaffhausen, Switzerland (Europe)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Greg Jama,Project Manager - Engineering,Johnson & Johnson,Tier 1,"Mt. Joy, Pennsylvania, United States (US)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+"Gregory Strollo, CAM",Maintenance Manager,Johnson & Johnson,Tier 1,New York City Metropolitan Area (US),Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
+Marco Fimbres,Maintenance Manager,Johnson & Johnson,Tier 1,Mexico (Americas),Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Mary Houchin,MSAT Site Director,Johnson & Johnson,Tier 1,Raleigh-Durham-Chapel Hill Area (US),MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
+Rafael J. Riera,Production Engineering Manager,Johnson & Johnson,Tier 1,Puerto Rico (US),Engineering / C&Q — specifies and standardises process valves & equipment.
+A Glenn,Maintenance Manager,Novartis,Tier 1,"Aurora, Colorado, United States (US)",Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Megan Crandall,"Associate Director, MSAT DP",Novartis,Tier 1,"Garner, North Carolina, United States (US)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Soma shekara,Director - Global Project Engineering,Novartis,Tier 1,United States (US),Engineering / C&Q — specifies and standardises process valves & equipment.
 Anne-Sophie Eriksen,"Director Life Cycle Management, MSAT & QC",Novo Nordisk,Tier 1,"Farum, Capital Region of Denmark, Denmark (Europe)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
@@ -48,21 +57,27 @@ Lasse Brusgaard Demant Schwaneflygel,Senior Manager - API MSAT Business Support,
 Lone Charlotte Larsen,"Corporate Vice President, Novo Nordisk Production Chartres",Novo Nordisk,Tier 1,"Chartres, France (Europe)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
 Mads Overgaard,Director - PS API MSAT Technology & Process Facilities,Novo Nordisk,Tier 1,"Copenhagen, Denmark (Europe)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Søren Rønsted,"Director, Finished Product Manufacturing and Science (MSAT)",Novo Nordisk,Tier 1,"Copenhagen, Denmark (Europe)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
+Trent Rogers,Maintenance Manager,Novo Nordisk,Tier 1,"Kinston, North Carolina, United States (US)",Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Christian Hakemeyer,Head of MSAT,Roche/Genentech,Tier 1,"Ilvesheim, Baden-Württemberg, Germany (Europe)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Christian Rutz,"Head of Global PTT Engineering & Technology, Global MSAT/Engineering/Sustainability",Roche/Genentech,Tier 1,"Mannheim, Baden-Württemberg, Germany (Global)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Elizabeth Danbe,"Senior Engineer, Global Pharma Technical Engineering",Roche/Genentech,Tier 1,"Oceanside / South San Francisco, CA (US)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Ethan Wang,Head of Maintenance,Roche/Genentech,Tier 1,"Shanghai, China (Asia)",Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Marco Wetzstein,Head of MSAT,Roche/Genentech,Tier 1,Switzerland (Europe),MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Mark Nolden,Head of Global MSAT Drug Substance Process Stewards,Roche/Genentech,Tier 1,"Iffeldorf, Bavaria, Germany (Global)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
+Maurice Lambrecht,Head of Maintenance F&E und SHE,Roche/Genentech,Tier 1,"Mannheim, Baden-Württemberg, Germany (Europe)",Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 Nazeli Dertsakian,"VP & GM Genentech Oceanside / VP, Global Head Clinical Supply Operations",Roche/Genentech,Tier 1,"Oceanside, CA (US)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
 Pascal Ruf,Head of Site Infrastructure Engineering,Roche/Genentech,Tier 1,"Basel, Switzerland (Europe)",Utilities/technical services — owns clean-utility & CIP/SIP systems where diaphragm valves spec in.
 Qianting Ou,Head of MSAT,Roche/Genentech,Tier 1,China (Asia),MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
 Sebastian Stening,"VP, Global Head Device, Packaging & Distribution MSAT",Roche/Genentech,Tier 1,"Basel, Switzerland (Global)",MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
+Stephanie Targgart,Manager - Maintenance,Roche/Genentech,Tier 1,Greater Indianapolis (US),Asset reliability & maintenance — the predictive-maintenance / lifecycle buyer.
 "Chris Chumsae, PhD","Associate Director, Process Development Analytics",Bristol Myers Squibb,Tier 2,"Devens, MA (US)",Process development / advanced-mfg — specs process equipment early.
 Karin Shanahan,"EVP, Chief Supply Chain & Operations Officer",Bristol Myers Squibb,Tier 2,"Global (incl. Cruiserath, IE / Devens, MA) (US)",Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
 L. Andrew R.,"Director, Commercial Mfg GMP IT Systems – Operations Functional Lead",Bristol Myers Squibb,Tier 2,"Lebanon, New Jersey, United States (US)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 Richard Martel,"Upstream Manager, Single-Use Facility",Bristol Myers Squibb,Tier 2,"Devens, MA (US)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 Sean Tonzi,"Associate Director, CMC Strategy",Bristol Myers Squibb,Tier 2,"Syracuse, New York, United States",Process development / advanced-mfg — specs process equipment early.
 Ainhoa Nieto,"Associate VP, Manufacturing",Eli Lilly,Tier 2,Japan (Global),Manufacturing-adjacent influencer — moderate valve/equipment relevance.
+Bill Cook,Lean Manufacturing / Operational Excellence - Director,Eli Lilly,Tier 2,"Clinton, Indiana, United States (US)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
+F.R. Casal,Assistant Director,Eli Lilly,Tier 2,Puerto Rico (US),Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 Melissa Seymour,"EVP, Global Quality",Eli Lilly,Tier 2,Global (Indianapolis) (US),QA / validation — influences equipment qualification and change control.
 Roderick Freeman,"Site Quality Head, Novartis RLT (Radioligand Therapy)",Novartis,Tier 2,US (RLT site),QA / validation — influences equipment qualification and change control.
 Roland Gander,"Global Head Large Molecules / Cell & Gene Therapies; MD, Novartis Pharmaceutical GmbH (Kundl)",Novartis,Tier 2,"Kundl, Austria (Europe)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.

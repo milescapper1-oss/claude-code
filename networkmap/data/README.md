@@ -58,15 +58,15 @@ build pipeline never scrapes LinkedIn.
 Ingestion rules applied at build time: rows missing *both* name and company
 are skipped; exact `(name, company)` duplicates are deduped.
 
-Current count: **83 contacts** (46 public-sourced + 37 LinkedIn Navigator)
-across the accounts: Novo Nordisk 18, Eli Lilly 17, Roche/Genentech 13, BMS 12,
-AbbVie 11, Novartis 8, Johnson & Johnson 4. By tier: **58 Tier 1, 13 Tier 2,
+Current count: **98 contacts** (46 public-sourced + 52 LinkedIn Navigator)
+across the accounts: Eli Lilly 21, Novo Nordisk 19, Roche/Genentech 16, AbbVie
+13, BMS 13, Novartis 9, Johnson & Johnson 7. By tier: **71 Tier 1, 15 Tier 2,
 7 Tier 3, 5 de-prioritised**; **13 conference-confirmed speakers**
 (`meet_confidence: confirmed_speaker`). J&J also has 25 richer records in the
-jnj-mapping project, so **108 total** across all 7 accounts. The LinkedIn pull
-skews heavily to **MSAT** (a Tier 1 category — process ownership that feeds
-valve/equipment selection); the public stream skews to execs, site leads and
-capital-project delivery.
+jnj-mapping project, so **123 total** across all 7 accounts. LinkedIn pulls so
+far: an **MSAT** batch and a **maintenance/reliability** batch — both Tier 1
+(process ownership + the predictive-maintenance/lifecycle buyer). The public
+stream skews to execs, site leads and capital-project delivery.
 
 **EPCM channel note:** on these builds the actual valve specification often
 happens at the engineering-partner (EPCM) firms, not the pharma parent —
