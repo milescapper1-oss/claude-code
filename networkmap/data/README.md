@@ -3,7 +3,33 @@
 `contacts_networkmap.csv` is pipeline-ready in the schema the networkmap
 ingester reads: `name,title,company,site,linkedin_url,last_seen`.
 `contacts_research.json` is the same records with provenance
-(`region, function, source_url, source_note, confidence`).
+(`region, function, source_url, source_note, confidence`) **plus `tier` and
+`rationale`**.
+`contacts_ranked.csv` is the same records in the **Saunders diaphragm-valve
+BD targeting format** — `Name | Title | Company | Tier | Site/Region |
+Rationale`, sorted Tier 1 → 3 with de-prioritised names at the bottom.
+
+## Targeting framework (what the tiers mean)
+
+Contacts are ranked by influence over **valve specification, procurement, and
+lifecycle/reliability decisions** (Saunders diaphragm valves + predictive
+maintenance into CIP/SIP, utilities, upstream/downstream, fill & finish):
+
+- **Tier 1 — PRIMARY** (specify / standardise / own valve & asset decisions):
+  Engineering & Capital Projects, Engineering Standards owners, Asset
+  Reliability & Maintenance, Utilities & Technical Services (steam/water/
+  CIP/SIP), Biologics/large-molecule Tech Ops & MSAT, and site/plant leads at
+  biologics & sterile sites.
+- **Tier 2 — INFLUENCERS**: QA & Validation, Process Development & Engineering,
+  Advanced Manufacturing/Technology, Strategic Sourcing/Procurement, External
+  Manufacturing Technology.
+- **Tier 3 — STRATEGIC/ACCESS**: EVP Manufacturing & direct reports,
+  manufacturing-finance/capital-project business leads, non-US regional leads.
+- **De-prioritise**: commercial/marketing, research-site leadership, IR, tax,
+  clinical dev, regulatory affairs — low valve/equipment relevance.
+
+Tier is auto-assigned from each contact's function/title by the build script;
+verify Tier 3 vs Tier 1 at the margin before outreach.
 
 ## Scope
 

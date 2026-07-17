@@ -12,6 +12,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 3,
+    "rationale": "Executive manufacturing/operations sponsor \u2014 budget, direction and executive access.",
     "last_seen": "2026-07-17"
   },
   {
@@ -27,6 +29,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 2,
+    "rationale": "QA / validation \u2014 influences equipment qualification and change control.",
     "last_seen": "2026-07-17"
   },
   {
@@ -42,6 +46,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -57,6 +63,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 3,
+    "rationale": "Executive manufacturing/operations sponsor \u2014 budget, direction and executive access.",
     "last_seen": "2026-07-17"
   },
   {
@@ -72,6 +80,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Site/plant leadership at a biologics/sterile site \u2014 owns local asset & standardisation decisions.",
     "last_seen": "2026-07-17"
   },
   {
@@ -87,6 +97,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Site/plant leadership at a biologics/sterile site \u2014 owns local asset & standardisation decisions.",
     "last_seen": "2026-07-17"
   },
   {
@@ -102,6 +114,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 2,
+    "rationale": "Sourcing / procurement \u2014 commercial gatekeeper for valve & equipment contracts.",
     "last_seen": "2026-07-17"
   },
   {
@@ -117,6 +131,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 3,
+    "rationale": "Executive manufacturing/operations sponsor \u2014 budget, direction and executive access.",
     "last_seen": "2026-07-17"
   },
   {
@@ -132,6 +148,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 3,
+    "rationale": "Executive manufacturing/operations sponsor \u2014 budget, direction and executive access.",
     "last_seen": "2026-07-17"
   },
   {
@@ -147,6 +165,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 3,
+    "rationale": "Executive manufacturing/operations sponsor \u2014 budget, direction and executive access.",
     "last_seen": "2026-07-17"
   },
   {
@@ -162,6 +182,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Facilities of the Future 2026",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Site/plant leadership at a biologics/sterile site \u2014 owns local asset & standardisation decisions.",
     "last_seen": "2026-07-17"
   },
   {
@@ -177,6 +199,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Aseptic Conference 2026",
     "meet_confidence": "confirmed_speaker",
+    "tier": 0,
+    "rationale": "Conference-confirmed contact but role/title unknown \u2014 verify function before ranking.",
     "last_seen": "2026-07-17"
   },
   {
@@ -192,6 +216,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -207,6 +233,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 2,
+    "rationale": "QA / validation \u2014 influences equipment qualification and change control.",
     "last_seen": "2026-07-17"
   },
   {
@@ -222,6 +250,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Europe Annual Conference 2026 (Apr 20-22, Copenhagen)",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
   },
   {
@@ -237,6 +267,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Site/plant leadership at a biologics/sterile site \u2014 owns local asset & standardisation decisions.",
     "last_seen": "2026-07-17"
   },
   {
@@ -252,6 +284,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Site/plant leadership at a biologics/sterile site \u2014 owns local asset & standardisation decisions.",
     "last_seen": "2026-07-17"
   },
   {
@@ -267,6 +301,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 0,
+    "rationale": "Commercial/research leadership \u2014 low relevance to valve/equipment decisions (de-prioritise).",
     "last_seen": "2026-07-17"
   },
   {
@@ -282,6 +318,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -297,6 +335,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Europe Annual Conference 2026 (Apr 20-22, Copenhagen)",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
   },
   {
@@ -312,6 +352,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 3,
+    "rationale": "Executive manufacturing/operations sponsor \u2014 budget, direction and executive access.",
     "last_seen": "2026-07-17"
   },
   {
@@ -327,6 +369,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 0,
+    "rationale": "Commercial/research leadership \u2014 low relevance to valve/equipment decisions (de-prioritise).",
     "last_seen": "2026-07-17"
   },
   {
@@ -342,6 +386,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Facilities of the Future 2026",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
   },
   {
@@ -357,6 +403,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Site/plant leadership at a biologics/sterile site \u2014 owns local asset & standardisation decisions.",
     "last_seen": "2026-07-17"
   },
   {
@@ -372,6 +420,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -387,6 +437,8 @@
     "linkedin_url": "",
     "meet_at": "BioProcess International Europe 2026 (Apr 28-30, Vienna)",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Utilities/technical services \u2014 owns clean-utility & CIP/SIP systems where diaphragm valves spec in.",
     "last_seen": "2026-07-17"
   },
   {
@@ -402,6 +454,8 @@
     "linkedin_url": "",
     "meet_at": "BioProcess International Europe 2026 (Apr 28-30, Vienna)",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Utilities/technical services \u2014 owns clean-utility & CIP/SIP systems where diaphragm valves spec in.",
     "last_seen": "2026-07-17"
   },
   {
@@ -417,6 +471,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Facilities of the Future 2026",
     "meet_confidence": "confirmed_speaker",
+    "tier": 2,
+    "rationale": "Manufacturing-adjacent influencer \u2014 moderate valve/equipment relevance.",
     "last_seen": "2026-07-17"
   },
   {
@@ -432,6 +488,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -447,6 +505,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 2,
+    "rationale": "Sourcing / procurement \u2014 commercial gatekeeper for valve & equipment contracts.",
     "last_seen": "2026-07-17"
   },
   {
@@ -462,6 +522,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Site/plant leadership at a biologics/sterile site \u2014 owns local asset & standardisation decisions.",
     "last_seen": "2026-07-17"
   },
   {
@@ -477,6 +539,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 0,
+    "rationale": "Commercial/research leadership \u2014 low relevance to valve/equipment decisions (de-prioritise).",
     "last_seen": "2026-07-17"
   },
   {
@@ -492,6 +556,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 2,
+    "rationale": "Manufacturing-adjacent influencer \u2014 moderate valve/equipment relevance.",
     "last_seen": "2026-07-17"
   },
   {
@@ -507,6 +573,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Utilities/technical services \u2014 owns clean-utility & CIP/SIP systems where diaphragm valves spec in.",
     "last_seen": "2026-07-17"
   },
   {
@@ -522,6 +590,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 2,
+    "rationale": "Manufacturing-adjacent influencer \u2014 moderate valve/equipment relevance.",
     "last_seen": "2026-07-17"
   },
   {
@@ -537,6 +607,8 @@
     "linkedin_url": "",
     "meet_at": "The Bioprocessing Summit 2026 (Aug 10-13, Boston, MA)",
     "meet_confidence": "confirmed_speaker",
+    "tier": 2,
+    "rationale": "Process development / advanced-mfg \u2014 specs process equipment early.",
     "last_seen": "2026-07-17"
   },
   {
@@ -552,6 +624,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -567,6 +641,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -582,6 +658,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Aseptic Conference 2026 (Conference Chair)",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
   },
   {
@@ -597,6 +675,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Europe Annual Conference 2026 (Apr 20-22, Copenhagen)",
     "meet_confidence": "confirmed_speaker",
+    "tier": 3,
+    "rationale": "Executive manufacturing/operations sponsor \u2014 budget, direction and executive access.",
     "last_seen": "2026-07-17"
   },
   {
@@ -612,6 +692,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
   },
   {
@@ -627,6 +709,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Facilities of the Future 2026",
     "meet_confidence": "confirmed_speaker",
+    "tier": 2,
+    "rationale": "QA / validation \u2014 influences equipment qualification and change control.",
     "last_seen": "2026-07-17"
   },
   {
@@ -642,6 +726,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
   },
   {
@@ -657,6 +743,8 @@
     "linkedin_url": "",
     "meet_at": "ISPE Facilities of the Future 2026",
     "meet_confidence": "confirmed_speaker",
+    "tier": 1,
+    "rationale": "Capital-project delivery \u2014 direct owner of valve/equipment spec & procurement on an active build.",
     "last_seen": "2026-07-17"
   },
   {
@@ -672,6 +760,8 @@
     "linkedin_url": "",
     "meet_at": "",
     "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
   }
 ]

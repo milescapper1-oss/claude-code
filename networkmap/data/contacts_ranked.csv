@@ -1,0 +1,46 @@
+Name,Title,Company,Tier,Site/Region,Rationale
+Caroline Rocks,Senior Program Manager (Process Engineer),AbbVie,Tier 1,Ireland (Europe),Engineering / C&Q — specifies and standardises process valves & equipment.
+Columba McGarvey,"Site Director, AbbVie Ballytivnan (Sligo)",AbbVie,Tier 1,"Sligo, Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
+Darren Egan,"Site Director, AbbVie Manorhamilton Road (Sligo)",AbbVie,Tier 1,"Sligo, Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
+Malcolm Garde,"Site Director, AbbVie Cork (Carrigtwohill)",AbbVie,Tier 1,"Carrigtwohill (Cork), Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
+Daniel Post,"Associate Director, Technical Services Engineering",Bristol Myers Squibb,Tier 1,"Devens, MA (US)",Utilities/technical services — owns clean-utility & CIP/SIP systems where diaphragm valves spec in.
+Odile Smith,Vice President & Devens Campus Lead,Bristol Myers Squibb,Tier 1,"Devens, MA (US)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
+Padraig Keane,"Vice President & General Manager, Cruiserath Biologics Campus",Bristol Myers Squibb,Tier 1,"Cruiserath (Dublin), Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
+Carolina Serrano Martinez,Operations Improvement Engineer,Eli Lilly,Tier 1,US (Great Lakes region),Engineering / C&Q — specifies and standardises process valves & equipment.
+Dave Riordan,"VP & Site Head, Lilly Limerick",Eli Lilly,Tier 1,"Limerick, Ireland (Europe)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Eamon Judge,EMEA Major Project Planning Leader,Eli Lilly,Tier 1,Ireland (EMEA) (Europe),Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Keith Weseli,Advisor - Program Manager,Eli Lilly,Tier 1,US,Engineering / C&Q — specifies and standardises process valves & equipment.
+Matthew von Zirkelbach,"Vice President & Site Head, Lilly Medicine Foundry (Lebanon)",Eli Lilly,Tier 1,"Lebanon, IN (US)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Patrick Harnedy,Senior Principal Engineer,Eli Lilly,Tier 1,Ireland (Europe),Utilities/technical services — owns clean-utility & CIP/SIP systems where diaphragm valves spec in.
+Robert O'Keeffe,"Senior Director, Engineering Tech Centre",Eli Lilly,Tier 1,Ireland (Limerick NGB) (Europe),Engineering / C&Q — specifies and standardises process valves & equipment.
+Sinead Dullaghan,"Senior Principal Scientist, TSMS",Eli Lilly,Tier 1,Ireland (Europe),Utilities/technical services — owns clean-utility & CIP/SIP systems where diaphragm valves spec in.
+Tara Tibbs,"SVP & Site Head, Lilly Kinsale",Eli Lilly,Tier 1,"Kinsale (Cork), Ireland (Europe)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
+Victor Cruz,"SVP, Corporate Engineering & Global Health, Safety & Environmental",Eli Lilly,Tier 1,Global (Indianapolis) (US),Engineering / C&Q — specifies and standardises process valves & equipment.
+Flemming Dahl,"SVP, Head of Product Supply Fill & Finish Expansions",Novo Nordisk,Tier 1,Global (Denmark) (Europe),Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Jay Kuykendall,"Project Vice President, Clayton (NC) Expansion",Novo Nordisk,Tier 1,"Clayton, NC (US)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+"Kimberley Parker, PhD, PMP",Process Engineer III - Fermentation,Novo Nordisk,Tier 1,"Clayton / Research Triangle, NC (US)",Engineering / C&Q — specifies and standardises process valves & equipment.
+Larry Lane,"Project Director, Construction & Engineering (Clayton Expansion)",Novo Nordisk,Tier 1,"Clayton, NC (US)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Lars Hovmand-Lyster,Senior Engineering Specialist,Novo Nordisk,Tier 1,Denmark (Europe),Engineering / C&Q — specifies and standardises process valves & equipment.
+Lone Charlotte Larsen,"Corporate Vice President, Novo Nordisk Production Chartres",Novo Nordisk,Tier 1,"Chartres, France (Europe)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Elizabeth Danbe,"Senior Engineer, Global Pharma Technical Engineering",Roche/Genentech,Tier 1,"Oceanside / South San Francisco, CA (US)",Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
+Nazeli Dertsakian,"VP & GM Genentech Oceanside / VP, Global Head Clinical Supply Operations",Roche/Genentech,Tier 1,"Oceanside, CA (US)",Site/plant leadership at a biologics/sterile site — owns local asset & standardisation decisions.
+"Chris Chumsae, PhD","Associate Director, Process Development Analytics",Bristol Myers Squibb,Tier 2,"Devens, MA (US)",Process development / advanced-mfg — specs process equipment early.
+Karin Shanahan,"EVP, Chief Supply Chain & Operations Officer",Bristol Myers Squibb,Tier 2,"Global (incl. Cruiserath, IE / Devens, MA) (US)",Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
+Richard Martel,"Upstream Manager, Single-Use Facility",Bristol Myers Squibb,Tier 2,"Devens, MA (US)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
+Ainhoa Nieto,"Associate VP, Manufacturing",Eli Lilly,Tier 2,Japan (Global),Manufacturing-adjacent influencer — moderate valve/equipment relevance.
+Melissa Seymour,"EVP, Global Quality",Eli Lilly,Tier 2,Global (Indianapolis) (US),QA / validation — influences equipment qualification and change control.
+Roderick Freeman,"Site Quality Head, Novartis RLT (Radioligand Therapy)",Novartis,Tier 2,US (RLT site),QA / validation — influences equipment qualification and change control.
+Roland Gander,"Global Head Large Molecules / Cell & Gene Therapies; MD, Novartis Pharmaceutical GmbH (Kundl)",Novartis,Tier 2,"Kundl, Austria (Europe)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
+Erik Lorin Rasmussen,"SVP, Product Supply, Aseptic Manufacturing",Novo Nordisk,Tier 2,"Hillerod, Denmark (Europe)",Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
+Henrik Wulff,"EVP, Product Supply, Quality & IT",Novo Nordisk,Tier 2,"Clayton, NC / Kalundborg, DK (Global)",QA / validation — influences equipment qualification and change control.
+"Azita Saleki-Gerhardt, PhD","EVP, Chief Operations Officer",AbbVie,Tier 3,Global (mfg/eng/quality/supply) (US),"Executive manufacturing/operations sponsor — budget, direction and executive access."
+Edgardo Hernandez,"EVP & President, Lilly Manufacturing Operations",Eli Lilly,Tier 3,"Lebanon, IN / Concord, NC / Limerick, IE / Kinsale, IE (US)","Executive manufacturing/operations sponsor — budget, direction and executive access."
+Syed Abbas Yar-Khan,"Group Vice President, Global Parenteral Products & Devices",Eli Lilly,Tier 3,Global,"Executive manufacturing/operations sponsor — budget, direction and executive access."
+James Weirich,"Vice President, Cell & Gene Therapy Head",Novartis,Tier 3,"Durham, NC / Morris Plains, NJ (CGT) (US)","Executive manufacturing/operations sponsor — budget, direction and executive access."
+"Steffen Lang, PhD","President, Operations (former Global Head, Novartis Technical Operations)",Novartis,Tier 3,"Global (incl. Durham, NC / Kundl, AT)","Executive manufacturing/operations sponsor — budget, direction and executive access."
+Ann Lee,"SVP, Process R&D & Head of Global Technical Development",Roche/Genentech,Tier 3,"South San Francisco, CA (US)","Executive manufacturing/operations sponsor — budget, direction and executive access."
+Ashley Magargee,"CEO, Genentech",Roche/Genentech,Tier 3,"Holly Springs, NC (US)","Executive manufacturing/operations sponsor — budget, direction and executive access."
+Dana Kendall,"General Manager, AbbVie Ireland",AbbVie,De-prioritise,"Dublin (Citywest), Ireland (Europe)",Commercial/research leadership — low relevance to valve/equipment decisions (de-prioritise).
+Guy Oliver,"General Manager, UK & Ireland",Bristol Myers Squibb,De-prioritise,UK & Ireland (Europe),Commercial/research leadership — low relevance to valve/equipment decisions (de-prioritise).
+Thierry Diagana,"California Sites Head, Novartis Biomedical Research",Novartis,De-prioritise,"San Diego / Emeryville, CA (US)",Commercial/research leadership — low relevance to valve/equipment decisions (de-prioritise).
+Franck Bure,(title not stated in source),Roche/Genentech,De-prioritise,Not specified in source (Global),Conference-confirmed contact but role/title unknown — verify function before ranking.
