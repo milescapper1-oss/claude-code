@@ -23,12 +23,12 @@ project does not source from LinkedIn.
 Ingestion rules applied at build time: rows missing *both* name and company
 are skipped; exact `(name, company)` duplicates are deduped.
 
-Current count: **44 contacts** across the 6 accounts (AbbVie 6, BMS 7, Eli
-Lilly 14, Novartis 5, Novo Nordisk 8, Roche/Genentech 4), of which **11 are
+Current count: **45 contacts** across the 6 accounts (AbbVie 6, BMS 7, Eli
+Lilly 14, Novartis 5, Novo Nordisk 8, Roche/Genentech 5), of which **13 are
 conference-confirmed speakers** (`meet_confidence: confirmed_speaker` — ISPE
-Europe, ISPE Facilities of the Future, BPI Europe, and Bioprocessing Summit
-2026). J&J's 25 live separately in jnj-mapping, for **69 total** across all 7
-accounts. Lilly is heaviest because it has by far the most active capital
+Europe, ISPE Facilities of the Future, ISPE Aseptic, BPI Europe, and
+Bioprocessing Summit 2026). J&J's 25 live separately in jnj-mapping, for **70
+total** across all 7 accounts. Lilly is heaviest because it has by far the most active capital
 projects; the BMS Devens working-level engineers (Daniel Post — capital
 projects & utilities; Richard Martel — single-use) came via ISPE.org member
 profiles, a good vein for sub-executive names.
@@ -62,6 +62,10 @@ profiles, a good vein for sub-executive names.
 - Genentech has a live open req "Project Director – Capital Projects,
   Oceanside" (careers.gene.com) — a named *role* but not yet a named person;
   noted in the JSON's Nazeli Dertsakian source_note.
+- **Franck Bure** (Roche/Genentech) is a confirmed 2026 ISPE Aseptic
+  Conference speaker but the listing carried **no job title** — a verified
+  where-to-meet name whose role/function is unknown. Confirm before treating
+  him as a manufacturing/engineering lead.
 
 ## Not yet included (next passes)
 
