@@ -10,6 +10,8 @@
     "source_note": "Quoted across Lebanon IN ($18B+ campus), Concord NC injectables ($2B+), and Ireland ($1.8B). Title appears as both EVP and SVP across sources; EVP is the more recent.",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -23,6 +25,8 @@
     "source_note": "Top manufacturing/quality exec; quoted on Clayton NC $4.1B fill-finish expansion and Kalundborg DKK 42B expansion.",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -36,6 +40,8 @@
     "source_note": "Named project VP dedicated to the Clayton $4.1B expansion \u2014 a direct capital-project delivery role, exactly the target profile.",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -49,6 +55,8 @@
     "source_note": "Official AbbVie leadership page; leads global scientific, manufacturing, engineering, quality and supply chain.",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -62,6 +70,8 @@
     "source_note": "Site director for AbbVie Ballytivnan, Sligo.",
     "confidence": "stale_risk",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -75,6 +85,8 @@
     "source_note": "Site director for AbbVie Manorhamilton Road, Sligo.",
     "confidence": "stale_risk",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -88,6 +100,8 @@
     "source_note": "Official BMS leadership page; oversees worldwide product development, manufacturing and supply chain (Cruiserath IE biologics, Devens MA cell therapy sit under this org).",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -101,6 +115,8 @@
     "source_note": "Novartis executive-committee page; leads 25,000+ in manufacturing, quality, supply, procurement \u2014 the $23B US expansion (Durham NC flagship hub) rolls up here.",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -114,6 +130,8 @@
     "source_note": "Named as Novartis VP and Cell & Gene Therapy Head; relevant to the Durham NC gene-therapy production build.",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -127,6 +145,8 @@
     "source_note": "Quoted on the Holly Springs, NC facility (Genentech's first East Coast plant, investment ~doubled to ~$2B).",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   },
   {
@@ -140,6 +160,158 @@
     "source_note": "Named leader on the Oceanside, CA ~$450M biologics expansion. NOTE: Genentech also has a live open req 'Project Director - Capital Projects, Oceanside' (careers.gene.com) \u2014 a named role, not yet a named person.",
     "confidence": "sourced",
     "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Matthew von Zirkelbach",
+    "title": "Vice President & Site Head, Lilly Medicine Foundry (Lebanon)",
+    "company": "Eli Lilly",
+    "site": "Lebanon, IN",
+    "region": "US",
+    "function": "Site Leadership (Capital Project)",
+    "source_url": "https://constructionreviewonline.com/eli-lilly-breaks-ground-on-4-5b-medicine-foundry-in-indianas-leap-district/",
+    "source_note": "Named VP & Site Head of the Lilly Medicine Foundry, Lebanon IN \u2014 announced alongside the May 2026 $4.5B expansion. Direct leader of an active mega-build.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Melissa Seymour",
+    "title": "EVP, Global Quality",
+    "company": "Eli Lilly",
+    "site": "Global (Indianapolis)",
+    "region": "US",
+    "function": "Executive (Quality)",
+    "source_url": "https://investor.lilly.com/news-releases/news-release-details/melissa-seymour-join-lilly-executive-vice-president-global",
+    "source_note": "Joined Lilly as EVP Global Quality (from BMS) amid the manufacturing expansion; sits on Lilly's executive committee. Succeeded Johna Norton.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Robert O'Keeffe",
+    "title": "Senior Director, Engineering Tech Centre",
+    "company": "Eli Lilly",
+    "site": "Ireland (Limerick NGB)",
+    "region": "Europe",
+    "function": "Engineering / C&Q",
+    "source_url": "https://ispe.org/conferences/2026-europe-annual-conference/speakers",
+    "source_note": "ISPE Europe Annual Conference 2026 (Copenhagen) speaker \u2014 panel on efficient/compliant C&Q strategies; tied to the Lilly Limerick Next-Generation Biotech (NGB) facility and Pharma 4.0.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "ISPE Europe Annual Conference 2026 (Apr 20-22, Copenhagen)",
+    "meet_confidence": "confirmed_speaker",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Odile Smith",
+    "title": "Vice President & Devens Campus Lead",
+    "company": "Bristol Myers Squibb",
+    "site": "Devens, MA",
+    "region": "US",
+    "function": "Site Leadership",
+    "source_url": "https://www.wbjournal.com/article/outstanding-women-in-business-smith-is-leading-a-major-biopharma-expansion",
+    "source_note": "VP & Devens campus lead; responsible for the 89-acre Devens site incl. the cell therapy manufacturing facility (~1,100 employees). Named in Worcester Business Journal coverage of the Devens expansion.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Padraig Keane",
+    "title": "Vice President & General Manager, Cruiserath Biologics Campus",
+    "company": "Bristol Myers Squibb",
+    "site": "Cruiserath (Dublin), Ireland",
+    "region": "Europe",
+    "function": "Site Leadership",
+    "source_url": "https://cifconference.ie/speakers/padraig-keane/",
+    "source_note": "VP & GM of the Cruiserath Biologics Campus (Dublin) \u2014 leads drug substance manufacturing, DP testing and release. Named on bms.com and as a CIF Conference speaker. Relevant to the $400M Cruiserath sterile drug product build.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Guy Oliver",
+    "title": "General Manager, UK & Ireland",
+    "company": "Bristol Myers Squibb",
+    "site": "UK & Ireland",
+    "region": "Europe",
+    "function": "Executive (Country GM)",
+    "source_url": "https://www.bms.com/gb/life-and-science/news-and-perspectives/guy-oliver-appointed-as-general-manager-for-bristol-myers-squibb-uk-and-ireland.html",
+    "source_note": "Country GM for BMS UK & Ireland (official bms.com appointment release). Commercial/country leadership \u2014 lower direct manufacturing relevance than the site GMs.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Flemming Dahl",
+    "title": "SVP, Head of Product Supply Fill & Finish Expansions",
+    "company": "Novo Nordisk",
+    "site": "Global (Denmark)",
+    "region": "Europe",
+    "function": "Engineering / Capital Project (Fill-Finish Expansions)",
+    "source_url": "https://ispe.org/people/flemming-dahl",
+    "source_note": "SVP heading Novo's global Fill & Finish Expansions \u2014 responsible for all major fill-finish expansion projects company-wide (former SVP global Quality). ISPE.org member profile. One of the strongest capital-project matches in the set.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Lars Hovmand-Lyster",
+    "title": "Senior Engineering Specialist",
+    "company": "Novo Nordisk",
+    "site": "Denmark",
+    "region": "Europe",
+    "function": "Engineering / C&Q",
+    "source_url": "https://ispe.org/conferences/2026-europe-annual-conference/speakers",
+    "source_note": "ISPE Europe Annual Conference 2026 (Copenhagen) speaker \u2014 same C&Q strategies panel; Novo Nordisk simulation/validation for warehouse & intralogistics design.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "ISPE Europe Annual Conference 2026 (Apr 20-22, Copenhagen)",
+    "meet_confidence": "confirmed_speaker",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Ann Lee",
+    "title": "SVP, Process R&D & Head of Global Technical Development",
+    "company": "Roche/Genentech",
+    "site": "South San Francisco, CA",
+    "region": "US",
+    "function": "Technical Development / Manufacturing Science",
+    "source_url": "https://www.gene.com/about-us/leadership/executive-committee",
+    "source_note": "SVP Process R&D and Head of Global Technical Development at Genentech (gene.com executive/leadership). Owns process development / tech transfer into manufacturing.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Thierry Diagana",
+    "title": "California Sites Head, Novartis Biomedical Research",
+    "company": "Novartis",
+    "site": "San Diego / Emeryville, CA",
+    "region": "US",
+    "function": "R&D / Research Site Leadership",
+    "source_url": "https://www.novartis.com/us-en/stories/novartis-biomedical-research-hub-san-diego-thierry-diagana",
+    "source_note": "California Sites Head for Novartis Biomedical Research; leading the new San Diego research hub build. NOTE: research/drug-discovery site leadership, not manufacturing \u2014 lower relevance to valve procurement, included for completeness.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
     "last_seen": "2026-07-17"
   }
 ]

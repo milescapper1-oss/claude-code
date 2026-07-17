@@ -23,15 +23,34 @@ project does not source from LinkedIn.
 Ingestion rules applied at build time: rows missing *both* name and company
 are skipped; exact `(name, company)` duplicates are deduped.
 
+Current count: **21 contacts** across the 6 accounts (3–4 each), of which
+**2 are conference-confirmed speakers** (`meet_confidence: confirmed_speaker`
+— both on the ISPE Europe 2026 C&Q panel). J&J's 25 live separately in
+jnj-mapping, for **46 total** across all 7 accounts.
+
 ## Confidence / caveats
 
 - `confidence: stale_risk` — **Columba McGarvey** and **Darren Egan** (AbbVie
   Sligo site directors): only found in sources dated ~2019–2020. Verify they
   still hold these roles before outreach.
-- Most entries are **operations/manufacturing/supply-chain leadership** (EVP
-  Ops, Chief Supply Chain Officer, site GM). The strongest single
-  capital-project match is **Jay Kuykendall — Project VP, Novo Nordisk Clayton
-  expansion** (a role dedicated to delivering one build).
+- Strongest **capital-project** matches (people whose actual job is delivering
+  a build): **Flemming Dahl** (Novo — SVP, Head of Product Supply Fill & Finish
+  Expansions), **Jay Kuykendall** (Novo — Project VP, Clayton expansion), and
+  **Matthew von Zirkelbach** (Lilly — VP & Site Head, Lebanon Medicine
+  Foundry). The two ISPE speakers (**Robert O'Keeffe**, Lilly Engineering /
+  C&Q; **Lars Hovmand-Lyster**, Novo Engineering) are the best working-level
+  engineering/C&Q contacts.
+- `region` (US/Europe/Global) is the reliable geography field; `site` is
+  emitted **as written** (often a multi-site list for global execs) and the
+  networkmap resolver owns normalization — don't treat `site` as a canonical
+  key.
+- Lower manufacturing relevance (included for completeness): **Guy Oliver**
+  (BMS UK&I country GM) and **Thierry Diagana** (Novartis — research-site
+  leadership, not manufacturing).
+- **Deliberately excluded**, left for your LinkedIn Navigator pass: names that
+  surfaced only in gated sales databases (RocketReach/ZoomInfo/TheOrg) with no
+  primary-source corroboration — e.g. AbbVie's CPO — and ASME BPE committee
+  members whose only rosters were 2009–2012 (too stale).
 - `site` is emitted **as written** (often a multi-site list for global execs).
   The networkmap org/site resolver owns normalization — don't treat these as
   canonical site keys.
