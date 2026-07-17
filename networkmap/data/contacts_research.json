@@ -763,5 +763,22 @@
     "tier": 1,
     "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Jesper Kl\u00f8ve",
+    "title": "CEO, NNE (Novo Nordisk Engineering)",
+    "company": "Novo Nordisk",
+    "site": "Kalundborg, DK / Clayton, NC (NNE-delivered)",
+    "region": "Global",
+    "function": "Engineering (EPCM \u2014 capital delivery)",
+    "source_url": "https://www.nne.com/media/press-releases/NNE-engineering-partner/",
+    "source_note": "CEO of NNE, Novo Nordisk's wholly-owned engineering company that delivers the DKK 42B Kalundborg and Clayton NC capital projects (concept\u2192construction). NNE owns the process/utility engineering where diaphragm valves are specified \u2014 the EPCM arm is often the real valve-spec decision point, not the pharma parent. Highest-value channel lead for Novo builds.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
+    "last_seen": "2026-07-17"
   }
 ]

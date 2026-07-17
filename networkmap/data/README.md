@@ -49,12 +49,20 @@ project does not source from LinkedIn.
 Ingestion rules applied at build time: rows missing *both* name and company
 are skipped; exact `(name, company)` duplicates are deduped.
 
-Current count: **45 contacts** across the 6 accounts (AbbVie 6, BMS 7, Eli
-Lilly 14, Novartis 5, Novo Nordisk 8, Roche/Genentech 5), of which **13 are
+Current count: **46 contacts** across the 6 accounts (AbbVie 6, BMS 7, Eli
+Lilly 14, Novartis 5, Novo Nordisk 9, Roche/Genentech 5) — by tier: **26
+Tier 1, 9 Tier 2, 7 Tier 3, 4 de-prioritised** — of which **13 are
 conference-confirmed speakers** (`meet_confidence: confirmed_speaker` — ISPE
 Europe, ISPE Facilities of the Future, ISPE Aseptic, BPI Europe, and
-Bioprocessing Summit 2026). J&J's 25 live separately in jnj-mapping, for **70
-total** across all 7 accounts. Lilly is heaviest because it has by far the most active capital
+Bioprocessing Summit 2026). J&J's 25 live separately in jnj-mapping, for **71
+total** across all 7 accounts.
+
+**EPCM channel note:** on these builds the actual valve specification often
+happens at the engineering-partner (EPCM) firms, not the pharma parent —
+Jacobs (Lilly Limerick), **NNE / Novo Nordisk Engineering** (Kalundborg,
+Clayton), DPR & PM Group (Genentech, general). NNE's CEO **Jesper Kløve** is
+included under Novo Nordisk (NNE is Novo's wholly-owned arm). Targeting these
+EPCM firms directly is a high-value expansion not yet built out here. Lilly is heaviest because it has by far the most active capital
 projects; the BMS Devens working-level engineers (Daniel Post — capital
 projects & utilities; Richard Martel — single-use) came via ISPE.org member
 profiles, a good vein for sub-executive names.
