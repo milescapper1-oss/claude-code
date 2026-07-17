@@ -523,5 +523,20 @@
     "meet_at": "The Bioprocessing Summit 2026 (Aug 10-13, Boston, MA)",
     "meet_confidence": "confirmed_speaker",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Elizabeth Danbe",
+    "title": "Senior Engineer, Global Pharma Technical Engineering",
+    "company": "Roche/Genentech",
+    "site": "Oceanside / South San Francisco, CA",
+    "region": "US",
+    "function": "Engineering (Automation / Capital Project)",
+    "source_url": "https://ispe.org/people/elizabeth-clare-danbe",
+    "source_note": "Senior Engineer in Genentech's Global Pharma Technical Engineering group and Automation Sub-PM for the ACTIVE Oceanside Purification Expansion project. Working-level project engineer on a live capital build. ISPE.org member profile.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
   }
 ]

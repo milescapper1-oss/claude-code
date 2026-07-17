@@ -23,11 +23,11 @@ project does not source from LinkedIn.
 Ingestion rules applied at build time: rows missing *both* name and company
 are skipped; exact `(name, company)` duplicates are deduped.
 
-Current count: **35 contacts** across the 6 accounts (AbbVie 5, BMS 7, Eli
-Lilly 10, Novartis 4, Novo Nordisk 6, Roche/Genentech 3), of which **7 are
+Current count: **36 contacts** across the 6 accounts (AbbVie 5, BMS 7, Eli
+Lilly 10, Novartis 4, Novo Nordisk 6, Roche/Genentech 4), of which **7 are
 conference-confirmed speakers** (`meet_confidence: confirmed_speaker` — ISPE
 Europe, ISPE Facilities of the Future, BPI Europe, and Bioprocessing Summit
-2026). J&J's 25 live separately in jnj-mapping, for **60 total** across all 7
+2026). J&J's 25 live separately in jnj-mapping, for **61 total** across all 7
 accounts. Lilly is heaviest because it has by far the most active capital
 projects; the BMS Devens working-level engineers (Daniel Post — capital
 projects & utilities; Richard Martel — single-use) came via ISPE.org member
