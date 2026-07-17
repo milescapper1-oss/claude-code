@@ -40,22 +40,33 @@ is researched separately** and lives in the jnj-mapping project's
 
 ## Methodology
 
-Compiled via web search (2026-07-17). Every record traces to a public,
-non-LinkedIn source — company/investor press releases, official leadership
-pages, government economic-development announcements (IDA Ireland, NCBiotech,
-EDPNC), and trade press. `linkedin_url` is **intentionally left blank**: this
-project does not source from LinkedIn.
+Two provenance streams, tagged by the `confidence` field:
+
+1. **Public-sourced** (`confidence: sourced` / `stale_risk`) — compiled via web
+   search (2026-07-17) from public, non-LinkedIn sources: company/investor
+   press releases, official leadership pages, government economic-development
+   announcements (IDA Ireland, NCBiotech, EDPNC), ISPE profiles and trade press.
+2. **LinkedIn-sourced** (`confidence: linkedin`) — captured by the user from
+   **LinkedIn Sales Navigator** (filter: current company = the 7 target
+   accounts + Industry "Pharmaceutical Manufacturing" + engineering/MSAT titles
+   + seniority Director/VP/Manager) and merged here. These were pulled manually
+   by the account owner, not scraped.
+
+`linkedin_url` is **left blank on every record** for the user to backfill — the
+build pipeline never scrapes LinkedIn.
 
 Ingestion rules applied at build time: rows missing *both* name and company
 are skipped; exact `(name, company)` duplicates are deduped.
 
-Current count: **46 contacts** across the 6 accounts (AbbVie 6, BMS 7, Eli
-Lilly 14, Novartis 5, Novo Nordisk 9, Roche/Genentech 5) — by tier: **26
-Tier 1, 9 Tier 2, 7 Tier 3, 4 de-prioritised** — of which **13 are
-conference-confirmed speakers** (`meet_confidence: confirmed_speaker` — ISPE
-Europe, ISPE Facilities of the Future, ISPE Aseptic, BPI Europe, and
-Bioprocessing Summit 2026). J&J's 25 live separately in jnj-mapping, for **71
-total** across all 7 accounts.
+Current count: **83 contacts** (46 public-sourced + 37 LinkedIn Navigator)
+across the accounts: Novo Nordisk 18, Eli Lilly 17, Roche/Genentech 13, BMS 12,
+AbbVie 11, Novartis 8, Johnson & Johnson 4. By tier: **58 Tier 1, 13 Tier 2,
+7 Tier 3, 5 de-prioritised**; **13 conference-confirmed speakers**
+(`meet_confidence: confirmed_speaker`). J&J also has 25 richer records in the
+jnj-mapping project, so **108 total** across all 7 accounts. The LinkedIn pull
+skews heavily to **MSAT** (a Tier 1 category — process ownership that feeds
+valve/equipment selection); the public stream skews to execs, site leads and
+capital-project delivery.
 
 **EPCM channel note:** on these builds the actual valve specification often
 happens at the engineering-partner (EPCM) firms, not the pharma parent —
