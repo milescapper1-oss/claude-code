@@ -478,5 +478,50 @@
     "meet_at": "",
     "meet_confidence": "",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Daniel Post",
+    "title": "Associate Director, Technical Services Engineering",
+    "company": "Bristol Myers Squibb",
+    "site": "Devens, MA",
+    "region": "US",
+    "function": "Engineering (Capital Projects / Utilities)",
+    "source_url": "https://ispe.org/people/daniel-post",
+    "source_note": "Associate Director of the Technical Services Engineering group at BMS Devens \u2014 the group responsible for CAPITAL PROJECTS and site utilities. Working-level, directly on the valve/equipment procurement surface. ISPE.org member profile.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Richard Martel",
+    "title": "Upstream Manager, Single-Use Facility",
+    "company": "Bristol Myers Squibb",
+    "site": "Devens, MA",
+    "region": "US",
+    "function": "Manufacturing (Upstream / Single-Use)",
+    "source_url": "https://ispe.org/people/richard-martel",
+    "source_note": "Upstream Manager for the Single-Use Facility at BMS Devens. Working-level manufacturing/engineering. ISPE.org member profile.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Chris Chumsae, PhD",
+    "title": "Associate Director, Process Development Analytics",
+    "company": "Bristol Myers Squibb",
+    "site": "Devens, MA",
+    "region": "US",
+    "function": "Process Development / Analytics",
+    "source_url": "https://www.bioprocessingsummit.com/Speaker-Biographies",
+    "source_note": "Associate Director, Process Development Analytics at BMS Devens; Bioprocessing Summit 2026 speaker. Analytics focus \u2014 lower direct valve relevance, but a named working-level Devens contact.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "The Bioprocessing Summit 2026 (Aug 10-13, Boston, MA)",
+    "meet_confidence": "confirmed_speaker",
+    "last_seen": "2026-07-17"
   }
 ]
