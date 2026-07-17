@@ -628,5 +628,35 @@
     "meet_at": "",
     "meet_confidence": "",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Larry Lane",
+    "title": "Project Director, Construction & Engineering (Clayton Expansion)",
+    "company": "Novo Nordisk",
+    "site": "Clayton, NC",
+    "region": "US",
+    "function": "Engineering (Construction / Capital Project)",
+    "source_url": "https://www.bioprocessonline.com/doc/a-peek-into-novo-nordisk-s-sustainable-facility-construction-mindset-0001",
+    "source_note": "Project Director, Construction & Engineering on the Novo Nordisk Clayton $4.1B fill-finish expansion \u2014 owns design/engineering/construction, a prime valve & equipment procurement decision-maker. ISPE Facilities of the Future 2026 speaker (Feb). Complements Jay Kuykendall (Project VP) on the same build.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "ISPE Facilities of the Future 2026",
+    "meet_confidence": "confirmed_speaker",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Carolina Serrano Martinez",
+    "title": "Operations Improvement Engineer",
+    "company": "Eli Lilly",
+    "site": "US (Great Lakes region)",
+    "region": "US",
+    "function": "Engineering (Operations Improvement)",
+    "source_url": "https://ispegreatlakes.org/",
+    "source_note": "Operations Improvement Engineer at Eli Lilly; ISPE Great Lakes Chapter board member. Working-level engineer in the Indiana/Illinois manufacturing region.",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "last_seen": "2026-07-17"
   }
 ]
