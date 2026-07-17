@@ -23,10 +23,12 @@ project does not source from LinkedIn.
 Ingestion rules applied at build time: rows missing *both* name and company
 are skipped; exact `(name, company)` duplicates are deduped.
 
-Current count: **21 contacts** across the 6 accounts (3–4 each), of which
-**2 are conference-confirmed speakers** (`meet_confidence: confirmed_speaker`
-— both on the ISPE Europe 2026 C&Q panel). J&J's 25 live separately in
-jnj-mapping, for **46 total** across all 7 accounts.
+Current count: **32 contacts** across the 6 accounts (AbbVie 5, BMS 4, Eli
+Lilly 10, Novartis 4, Novo Nordisk 6, Roche/Genentech 3), of which **6 are
+conference-confirmed speakers** (`meet_confidence: confirmed_speaker` — ISPE
+Europe, ISPE Facilities of the Future, and BPI Europe 2026). J&J's 25 live
+separately in jnj-mapping, for **57 total** across all 7 accounts. Lilly is
+heaviest because it has by far the most active capital projects.
 
 ## Confidence / caveats
 
