@@ -419,6 +419,7 @@ Georg Singewald,"SVP, Head of Global Engineering, MSAT & Sustainability",Roche/G
 Gerard Loke,Senior Engineer (Design and Capital Projects),Roche/Genentech,Tier 1,Singapore (Asia),Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
 Hiltrud Krenz,Projektingenieur,Roche/Genentech,Tier 1,Greater Munich Metropolitan Area (Europe),Engineering / C&Q — specifies and standardises process valves & equipment.
 Joanna Szmytke,Engineering Manager,Roche/Genentech,Tier 1,"Poznań, Poland (Europe)",Engineering / C&Q — specifies and standardises process valves & equipment.
+Ken Hamilton,Distinguished Engineer (Drug Substance Facility Energy Efficiency),Roche/Genentech,Tier 1,United States (US),Utilities/technical services — owns clean-utility & CIP/SIP systems where diaphragm valves spec in.
 Kimo Eggenberger,Konstrukteur (Design Engineer),Roche/Genentech,Tier 1,"Basel, Switzerland (Europe)",Engineering / C&Q — specifies and standardises process valves & equipment.
 Kwok Lek Ang,Project Engineer (Associate Principal),Roche/Genentech,Tier 1,Singapore (Asia),Utilities/technical services — owns clean-utility & CIP/SIP systems where diaphragm valves spec in.
 Marco Wetzstein,Head of MSAT,Roche/Genentech,Tier 1,Switzerland (Europe),MSAT / large-molecule tech ops — process ownership feeding valve & equipment selection.
@@ -437,12 +438,15 @@ Stephanie Targgart,Manager - Maintenance,Roche/Genentech,Tier 1,Greater Indianap
 Troy Farris,"Director, Capital Projects",Roche/Genentech,Tier 1,Greater Indianapolis (US),Capital-project delivery — direct owner of valve/equipment spec & procurement on an active build.
 Luis M González,Supply Chain QA Project Manager,AbbVie,Tier 2,"Highland Park, Illinois, United States (US)",QA / validation — influences equipment qualification and change control.
 Arun Krishnan,"VP, Global Network Planning (Global Supply Chain & Strategy)",AstraZeneca,Tier 2,Global,Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
+Ciby Abraham,"Senior Director & Group Manager, Project & Product Leadership",AstraZeneca,Tier 2,United States (US),Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 Linzell Harris,"SVP, Global Supply Chain and Strategy",AstraZeneca,Tier 2,Global,Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
 Brian Whitlock,"VP, Strategic Sourcing & Procurement (R&D)",Bristol Myers Squibb,Tier 2,United States (US),Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
 Carole Bertola,"Director, Global Strategic Sourcing & Procurement",Bristol Myers Squibb,Tier 2,Switzerland (global) (Europe),Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
+Catalina Vargas,"SVP, Global Supply Chain",Bristol Myers Squibb,Tier 2,United States (US),Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
 "Chris Chumsae, PhD","Associate Director, Process Development Analytics",Bristol Myers Squibb,Tier 2,"Devens, MA (US)",Process development / advanced-mfg — specs process equipment early.
 Karin Shanahan,"EVP, Chief Supply Chain & Operations Officer",Bristol Myers Squibb,Tier 2,"Global (incl. Cruiserath, IE / Devens, MA) (US)",Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
 L. Andrew R.,"Director, Commercial Mfg GMP IT Systems – Operations Functional Lead",Bristol Myers Squibb,Tier 2,"Lebanon, New Jersey, United States (US)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
+Manisha Desai,"SVP, Product Development (Global Product Dev & Supply)",Bristol Myers Squibb,Tier 2,United States (US),Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
 Nidhi Shah,"Senior Director, Value Stream CAR-T Manufacturing Operations",Bristol Myers Squibb,Tier 2,United States (US),Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 Richard Martel,"Upstream Manager, Single-Use Facility",Bristol Myers Squibb,Tier 2,"Devens, MA (US)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 Sean Tonzi,"Associate Director, CMC Strategy",Bristol Myers Squibb,Tier 2,"Syracuse, New York, United States",Process development / advanced-mfg — specs process equipment early.
@@ -453,6 +457,7 @@ Melissa Seymour,"EVP, Global Quality",Eli Lilly,Tier 2,Global (Indianapolis) (US
 Molly Wagner,"Director, Capital Procurement",Eli Lilly,Tier 2,Greater Indianapolis (US),Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
 Alan Bateman,"Director, Systems Architecture, Digital & Execution",Johnson & Johnson,Tier 2,Ireland (Europe),Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 David Estape,"Technology Manager, Biotechnology",Johnson & Johnson,Tier 2,Europe (J&J),Process development / advanced-mfg — specs process equipment early.
+Robin Kumoluyi,"VP & Chief Quality Officer, Innovative Medicine",Johnson & Johnson,Tier 2,United States (US),QA / validation — influences equipment qualification and change control.
 Roderick Freeman,"Site Quality Head, Novartis RLT (Radioligand Therapy)",Novartis,Tier 2,US (RLT site),QA / validation — influences equipment qualification and change control.
 Roland Gander,"Global Head Large Molecules / Cell & Gene Therapies; MD, Novartis Pharmaceutical GmbH (Kundl)",Novartis,Tier 2,"Kundl, Austria (Europe)",Manufacturing-adjacent influencer — moderate valve/equipment relevance.
 Erik Lorin Rasmussen,"SVP, Product Supply, Aseptic Manufacturing",Novo Nordisk,Tier 2,"Hillerod, Denmark (Europe)",Sourcing / procurement — commercial gatekeeper for valve & equipment contracts.
@@ -464,6 +469,7 @@ Marie Czogalla,Partnering System Change Specialist Sterile Filling,Roche/Genente
 Tobias Gerbracht,Technology Scientific Expert,Roche/Genentech,Tier 2,"Grenzach-Wyhlen, Germany (Europe)",Process development / advanced-mfg — specs process equipment early.
 "Azita Saleki-Gerhardt, PhD","EVP, Chief Operations Officer",AbbVie,Tier 3,Global (mfg/eng/quality/supply) (US),"Executive manufacturing/operations sponsor — budget, direction and executive access."
 Pam Cheng,"EVP, Global Operations & IT, Chief Sustainability Officer",AstraZeneca,Tier 3,Global (UK/US),"Executive manufacturing/operations sponsor — budget, direction and executive access."
+Eamonn Warren,"Group VP, API & Dry Products Manufacturing",Eli Lilly,Tier 3,United States (US),"Executive manufacturing/operations sponsor — budget, direction and executive access."
 Edgardo Hernandez,"EVP & President, Lilly Manufacturing Operations",Eli Lilly,Tier 3,"Lebanon, IN / Concord, NC / Limerick, IE / Kinsale, IE (US)","Executive manufacturing/operations sponsor — budget, direction and executive access."
 Syed Abbas Yar-Khan,"Group Vice President, Global Parenteral Products & Devices",Eli Lilly,Tier 3,Global,"Executive manufacturing/operations sponsor — budget, direction and executive access."
 James Weirich,"Vice President, Cell & Gene Therapy Head",Novartis,Tier 3,"Durham, NC / Morris Plains, NJ (CGT) (US)","Executive manufacturing/operations sponsor — budget, direction and executive access."
