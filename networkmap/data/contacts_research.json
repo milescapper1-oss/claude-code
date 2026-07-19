@@ -8056,5 +8056,39 @@
     "tier": 1,
     "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Peter Millili",
+    "title": "Senior Director, Manufacturing Science & Technology",
+    "company": "Johnson & Johnson",
+    "site": "United States",
+    "region": "US",
+    "function": "MSAT / Technical Service",
+    "source_url": "Public \u2014 ISPE conference committee",
+    "source_note": "Sr Director MSAT, J&J; ISPE Annual 2025 conference-committee member \u2014 well-networked MSAT authority. [ISPE]",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "ISPE Annual",
+    "meet_confidence": "conference-active",
+    "tier": 1,
+    "rationale": "MSAT / large-molecule tech ops \u2014 process ownership feeding valve & equipment selection.",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Dan Usas",
+    "title": "Director, Technical Operations",
+    "company": "Johnson & Johnson",
+    "site": "United States",
+    "region": "US",
+    "function": "MSAT / Technical Service",
+    "source_url": "Public \u2014 LinkedIn",
+    "source_note": "Director Technical Operations, Janssen/J&J \u2014 spans supply chain, product lifecycle, energy & risk mgmt. TechOps decision-maker. [public]",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "tier": 1,
+    "rationale": "MSAT / large-molecule tech ops \u2014 process ownership feeding valve & equipment selection.",
+    "last_seen": "2026-07-17"
   }
 ]
