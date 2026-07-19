@@ -8345,5 +8345,39 @@
     "tier": 2,
     "rationale": "Sourcing / procurement \u2014 commercial gatekeeper for valve & equipment contracts.",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Michael Grischeau",
+    "title": "Director, Data Analytics & Management Review",
+    "company": "AbbVie",
+    "site": "North Chicago, Illinois, United States",
+    "region": "US",
+    "function": "Advanced Mfg / Digital (Quality)",
+    "source_url": "Public \u2014 ISPE Annual DC speaker",
+    "source_note": "Director Data Analytics & Mgmt Review, AbbVie \u2014 quality-systems/site-performance data across global network; ISPE APQ co-lead. Named AbbVie contact (gate-locked account); Tier-2 digital/quality \u2014 PdM-data entry. [ISPE Annual DC]",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "ISPE Annual",
+    "meet_confidence": "conference-active",
+    "tier": 2,
+    "rationale": "QA / validation \u2014 influences equipment qualification and change control.",
+    "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Paula Gamboa",
+    "title": "Quality / Operations (AbbVie)",
+    "company": "AbbVie",
+    "site": "North Chicago, Illinois, United States",
+    "region": "US",
+    "function": "Quality / Operations",
+    "source_url": "Public \u2014 ISPE Annual DC speaker",
+    "source_note": "AbbVie quality/ops \u2014 co-presented cross-functional transformation with M. Grischeau at ISPE Annual DC. Named AbbVie contact (title to confirm). [ISPE Annual DC]",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "ISPE Annual",
+    "meet_confidence": "conference-active",
+    "tier": 2,
+    "rationale": "QA / validation \u2014 influences equipment qualification and change control.",
+    "last_seen": "2026-07-17"
   }
 ]
