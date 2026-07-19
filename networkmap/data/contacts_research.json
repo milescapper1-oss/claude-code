@@ -8209,5 +8209,22 @@
     "tier": 2,
     "rationale": "Manufacturing-adjacent influencer \u2014 moderate valve/equipment relevance.",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Coralie Richard",
+    "title": "Director (Parenteral)",
+    "company": "Eli Lilly",
+    "site": "Europe",
+    "region": "Europe",
+    "function": "Parenteral / Packaging",
+    "source_url": "Public \u2014 PDA Parenteral Packaging speaker",
+    "source_note": "Director, Lilly parenteral \u2014 PDA speaker; parenteral/packaging adjacent to fill-finish valve trains (Tier-2, verify scope). [PDA 2026]",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "PDA Parenteral Packaging; PDA Week",
+    "meet_confidence": "conference-active",
+    "tier": 2,
+    "rationale": "Manufacturing-adjacent influencer \u2014 moderate valve/equipment relevance.",
+    "last_seen": "2026-07-17"
   }
 ]
