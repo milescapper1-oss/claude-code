@@ -8039,5 +8039,22 @@
     "tier": 2,
     "rationale": "Process development / advanced-mfg \u2014 specs process equipment early.",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "Nicholas J. Casale",
+    "title": "Head of Strategy & Operational Excellence, Cell & Gene Tech Dev & Mfg",
+    "company": "Novartis",
+    "site": "Morris Plains, New Jersey, United States",
+    "region": "US",
+    "function": "Manufacturing Engineering / Op-Ex",
+    "source_url": "Public \u2014 ISPE people page",
+    "source_note": "Head of Strategy & Op-Ex for Novartis Cell & Gene tech dev & mfg; 28 yrs ops + manufacturing engineering. Influences mfg engineering standards. [ISPE]",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "ISPE Annual; ISPE Aseptic",
+    "meet_confidence": "conference-active",
+    "tier": 1,
+    "rationale": "Engineering / C&Q \u2014 specifies and standardises process valves & equipment.",
+    "last_seen": "2026-07-17"
   }
 ]
