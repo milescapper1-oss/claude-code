@@ -8192,5 +8192,22 @@
     "tier": 1,
     "rationale": "Utilities/technical services \u2014 owns clean-utility & CIP/SIP systems where diaphragm valves spec in.",
     "last_seen": "2026-07-17"
+  },
+  {
+    "name": "John Casey",
+    "title": "Senior Director, Biologics Contract Manufacturing",
+    "company": "AbbVie",
+    "site": "Worcester, Massachusetts, United States",
+    "region": "US",
+    "function": "External / Contract Manufacturing",
+    "source_url": "Public \u2014 LinkedIn",
+    "source_note": "Sr Director Biologics Contract Mfg, AbbVie Worcester (largest MA site) \u2014 first named AbbVie ops contact; external-mfg/biologics (Tier-2). [public]",
+    "confidence": "sourced",
+    "linkedin_url": "",
+    "meet_at": "",
+    "meet_confidence": "",
+    "tier": 2,
+    "rationale": "Manufacturing-adjacent influencer \u2014 moderate valve/equipment relevance.",
+    "last_seen": "2026-07-17"
   }
 ]
