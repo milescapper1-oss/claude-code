@@ -102,6 +102,8 @@ Brían McGivney,CQV Engineer - Clean & Process Support Utilities,AstraZeneca,T1 
 Hanae BELAHBIB,Ingénieur projets,AstraZeneca,Unclassified,Tier 1,Europe,Navigator,
 Alan Jin,Associate Project Manager,AstraZeneca,Unclassified,Tier 1,Asia,Navigator,
 Ciby Abraham,"Senior Director & Group Manager, Project & Product Leadership",AstraZeneca,Unclassified,Tier 1,US,Public,ISPE Annual
+Jim Fox,"Executive, Supply Network / Operations",AstraZeneca,Unclassified,Tier 1,US,Public,American Biomanufacturing Summit
+Andrew Wirths,"Executive, Supply Network / Operations",AstraZeneca,Unclassified,Tier 1,US,Public,American Biomanufacturing Summit
 Troy M,"Manager, Maintenance",Bristol Myers Squibb,T1 · Asset Reliability & Maintenance,Tier 1,US,Navigator,
 Jamie McDonald,Capital Projects Manager,Bristol Myers Squibb,T1 · Capital Projects / Construction,Tier 1,US,Navigator,
 Lisa Martins,"Senior Manager, Capital Projects",Bristol Myers Squibb,T1 · Capital Projects / Construction,Tier 1,US,Navigator,
@@ -322,6 +324,7 @@ Binghui Li,Engineering Manager,Johnson & Johnson,T1 · Engineering (Project/Proc
 George Kokoris Kogias,Global Project Engineer,Johnson & Johnson,T1 · Engineering (Project/Process),Tier 1,Europe,Navigator,
 Brandon Darby,Automation Engineering Manager - Execution Systems,Johnson & Johnson,T1 · Engineering (Project/Process),Tier 1,US,Navigator,
 Jose Cabello,Engineering Manager,Johnson & Johnson,T1 · Engineering (Project/Process),Tier 1,US,Navigator,
+James Breen,"VP, Global Engineering & Technology",Johnson & Johnson,T1 · Engineering (Project/Process),Tier 1,US,Public,ISPE Facilities of the Future; ISPE Annual
 Thomas Kelly,"Director, Cell Engineering & Analytical Sciences",Johnson & Johnson,T1 · Engineering (Project/Process),Tier 1,US,Public,"BioProcess International 2026 (Sep 22-25, Boston, MA)"
 Mary Houchin,MSAT Site Director,Johnson & Johnson,T1 · MSAT / Technical Service,Tier 1,US,Navigator,
 Goeran Crucius,Director MSAT Cross Platform Engineering,Johnson & Johnson,T1 · MSAT / Technical Service,Tier 1,Europe,Navigator,
@@ -423,6 +426,7 @@ Iliana Karasa,Project Engineer,Novo Nordisk,T1 · Engineering (Project/Process),
 Alice D.,Project Engineer II,Novo Nordisk,T1 · Engineering (Project/Process),Tier 1,US,Navigator,
 David Potts,Senior Project Engineer,Novo Nordisk,T1 · Engineering (Project/Process),Tier 1,US,Navigator,
 Sowmya Godala,Project Engineer,Novo Nordisk,T1 · Engineering (Project/Process),Tier 1,US,Navigator,
+Heidi Foldal,Metrology Engineer,Novo Nordisk,T1 · Engineering (Project/Process),Tier 1,Europe,Public,ISPE Annual
 Anne-Sophie Eriksen,"Director Life Cycle Management, MSAT & QC",Novo Nordisk,T1 · MSAT / Technical Service,Tier 1,Europe,Navigator,
 Bettina Jakobsen,Senior Manager API QA MSAT & Support,Novo Nordisk,T1 · MSAT / Technical Service,Tier 1,Europe,Navigator,
 Mads Overgaard,Director - PS API MSAT Technology & Process Facilities,Novo Nordisk,T1 · MSAT / Technical Service,Tier 1,Europe,Navigator,
@@ -483,6 +487,7 @@ Lasse Holm Clausen,"Head of Process Management, AI & IT Quality",Novo Nordisk,T2
 "Azita Saleki-Gerhardt, PhD","EVP, Chief Operations Officer",AbbVie,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,
 Pam Cheng,"EVP, Global Operations & IT, Chief Sustainability Officer",AstraZeneca,T3 · Executive (VP/SVP/Head),Tier 3,Global,Public,
 Linzell Harris,"SVP, Global Supply Chain and Strategy",AstraZeneca,T3 · Executive (VP/SVP/Head),Tier 3,Global,Public,
+Dafni Bika,"SVP & Global Head, Pharmaceutical Technology & Development (Global Operations)",AstraZeneca,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,
 Karin Shanahan,"EVP, Chief Supply Chain & Operations Officer",Bristol Myers Squibb,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,
 Catalina Vargas,"SVP, Global Supply Chain",Bristol Myers Squibb,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,Pharma Manufacturing World Summit
 Manisha Desai,"SVP, Product Development (Global Product Dev & Supply)",Bristol Myers Squibb,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,Pharma Manufacturing World Summit
@@ -490,6 +495,7 @@ Edgardo Hernandez,"EVP & President, Lilly Manufacturing Operations",Eli Lilly,T3
 Melissa Seymour,"EVP, Global Quality",Eli Lilly,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,
 Syed Abbas Yar-Khan,"Group Vice President, Global Parenteral Products & Devices",Eli Lilly,T3 · Executive (VP/SVP/Head),Tier 3,Global,Public,"ISPE Europe Annual Conference 2026 (Apr 20-22, Copenhagen)"
 Eamonn Warren,"Group VP, API & Dry Products Manufacturing",Eli Lilly,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,Pharma Manufacturing World Summit; ISPE Annual
+Kevin Trivett,"SVP, Device & Packaging Operations Manufacturing",Eli Lilly,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,ISPE Facilities of the Future
 Robin Kumoluyi,"VP & Chief Quality Officer, Innovative Medicine",Johnson & Johnson,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,Pharma Manufacturing World Summit
 Kathryn E. Wengel,"EVP, Chief Technical Operations & Risk Officer",Johnson & Johnson,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,
 Kimberly Lounds Foster,"Global Head, Advanced Therapies Supply Chain",Johnson & Johnson,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,
@@ -507,4 +513,5 @@ Erik Lorin Rasmussen,"SVP, Product Supply, Aseptic Manufacturing",Novo Nordisk,T
 Nazeli Dertsakian,"VP & GM Genentech Oceanside / VP, Global Head Clinical Supply Operations",Roche/Genentech,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,ISPE Facilities of the Future 2026
 Ann Lee,"SVP, Process R&D & Head of Global Technical Development",Roche/Genentech,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,
 Bob Iser,"Global Head, Quality Policy & Advocacy",Roche/Genentech,T3 · Executive (VP/SVP/Head),Tier 3,US,Public,ISPE Facilities of the Future
+Susanne Hundsbaek-Pedersen,EVP & Global Head of Pharma Technical Operations,Roche/Genentech,T3 · Executive (VP/SVP/Head),Tier 3,Europe,Public,ISPE Europe
 Craig Walsh,"Innovation and Technology team, clinical manufacturing (PAT focus)",Johnson & Johnson,De-prioritise (commercial/clinical/etc.),De-prioritise,Europe,Public,"BioProcess International Europe 2026 (Apr 28-30, Vienna)"
